@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Simple sign on and store/backup important files) (Hardcore GIT IPFS Storage on ipfs(public and private)(integrate stat viewer into this as well)
+# Simple sign on and store/backup important files) (Hardcore GIT IPFS Storage on ipfs(public and private)(integrate stat viewer into this as well)
+
+## This repo is in development- nothing is finished
 
 # Quick Start
 
@@ -20,3 +22,4 @@ REACT_APP_AUTH0_CALLBACK_URL=http://localhost:3000/callback
 npm install
 npm start
 ```
+
